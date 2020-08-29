@@ -136,6 +136,10 @@ textarea {
 
 /*WRAPPER===========================================================================================*/
 
+body {
+  overflow-x: hidden;
+}
+
 body.lock {
   overflow: hidden;
 }
