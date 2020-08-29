@@ -1378,6 +1378,7 @@ form button:hover {
     margin: 0 0 20px 0;
     display: inline-block;
     height: 100%;
+    max-width: 174px !important;
   }
 
   .item-b7 {
@@ -1385,6 +1386,7 @@ form button:hover {
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
             flex-direction: column;
+    padding: 20px 20px 20px 20px;
   }
 
   .item-b7__text {
@@ -1421,7 +1423,6 @@ form button:hover {
   }
 
   .form__title {
-    margin: 5px 10px 0 30px;
     font-size: 15px;
     line-height: 18px;
   }
