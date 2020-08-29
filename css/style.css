@@ -1202,6 +1202,7 @@ form button:hover {
   text-align: left;
   font-size: 16px;
   font-weight: bold;
+  padding: 0 50px 0 0;
   z-index: 6;
   color: #fff;
   width: 100%;
