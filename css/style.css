@@ -1501,6 +1501,16 @@ form button:hover {
     right: 45%;
   }
 
+  .block-4__row {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+
   .block-5 {
     padding: 30px 0;
   }
@@ -1683,16 +1693,6 @@ form button:hover {
 
   .block-4 {
     padding: 20px 0;
-  }
-
-  .block-4__row {
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
   }
 
   .block-4__item {
