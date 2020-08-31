@@ -186,7 +186,7 @@ body.lock {
 }
 
 .header__active {
-  background-color: #FF6244;
+  background-color: #FFC5A7;
   -webkit-box-shadow: 0 8px 6px -6px rgba(0, 0, 0, 0.5);
           box-shadow: 0 8px 6px -6px rgba(0, 0, 0, 0.5);
   padding: 5px 0;
@@ -445,7 +445,7 @@ body.lock {
 }
 
 .form form button {
-  background-color: #FF6244;
+  background-color: #FFC5A7;
   padding: 4px 20px;
   border: 1px solid #000;
   border-radius: 5px;
@@ -487,7 +487,7 @@ body.lock {
 }
 
 .price-form__main {
-  color: #FF6244;
+  color: #FFC5A7;
   font-size: 32px;
   font-weight: bold;
 }
@@ -615,13 +615,13 @@ body.lock {
 }
 
 .column-left__title_b3 {
-  color: #FF6244;
+  color: #FFC5A7;
 }
 
 form button {
   color: #fff;
   display: inline-block;
-  background-color: #ff6244;
+  background-color: #FFC5A7;
   padding: 4px 20px;
   border: 1px solid #000;
   border-radius: 5px;
@@ -717,7 +717,7 @@ form button:hover {
 .block-4__title {
   font-size: 24px;
   font-weight: bold;
-  color: #FF6244;
+  color: #FFC5A7;
 }
 
 .block-4__subtitle {
@@ -820,7 +820,7 @@ form button:hover {
 
 .block-6 {
   padding: 70px 0;
-  background-color: #FF6244;
+  background-color: #FFC5A7;
   border-top: 1px solid #000;
 }
 
@@ -973,7 +973,7 @@ form button:hover {
 .top-b8__title {
   font-size: 24px;
   font-weight: bold;
-  color: #f06040;
+  color: #FFC5A7;
 }
 
 .top-b8__subtitle {
@@ -1013,7 +1013,7 @@ form button:hover {
   content: "";
   display: block;
   height: 2px;
-  background-color: #f06040;
+  background-color: #FFC5A7;
   position: absolute;
   top: 25px;
   left: 80%;
@@ -1032,7 +1032,7 @@ form button:hover {
 .bot-b8__title {
   font-size: 24px;
   font-weight: bold;
-  color: #f06040;
+  color: #FFC5A7;
 }
 
 .bot-b8__subtitle {
@@ -1042,7 +1042,7 @@ form button:hover {
 }
 
 .bot-b8__subtitle span {
-  color: #f06040;
+  color: #FFC5A7;
 }
 
 .bot-b8__row {
@@ -1074,7 +1074,7 @@ form button:hover {
   content: "";
   display: block;
   height: 2px;
-  background-color: #f06040;
+  background-color: #FFC5A7;
   position: absolute;
   top: 30px;
   left: 80%;
@@ -1108,14 +1108,14 @@ form button:hover {
   width: 30px;
   height: 30px;
   border-radius: 50%;
-  background-color: #f06040;
+  background-color: #FFC5A7;
 }
 
 /*FOOTER===========================================================================================*/
 
 .footer {
   padding: 10px 0 20px 0;
-  background-color: #FF6244;
+  background-color: #FFC5A7;
   border-top: 1px solid #000;
 }
 
